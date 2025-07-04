@@ -1,0 +1,2 @@
+# repoMate
+Clonar repo remoto
